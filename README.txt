@@ -1,5 +1,4 @@
-This is an example LUFA (Lightweight USB Framework for AVRs) demo which allows you to use an Arduino Leonardo to load images to the onboard flash memory of the EPaper development board.
-The Arduino Leonardo will enumerate over USB as a mass storage device allowing you to drag and drop files into the flash memory.
+This is an example LUFA (Lightweight USB Framework for AVRs) demo which allows you to use an Arduino Leonardo to load images to the onboard flash memory of the EPaper development board. The Arduino Leonardo will enumerate over USB as a mass storage device allowing you to drag and drop files into the flash memory.
 
 	Works with all our EPaper development boards: 
 		http://www.jayconsystems.com/epaper-development-board-v1-1-44.html
